@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.u1{
+width: 100%;
+
+background-color: #E49855;
+}
+
+.u1 label{
+    width: 98.5%;
+    border-bottom: 4px solid #DEDAD5;
+    font-size: 25px;
+    font-weight: 500;
+}
+.u1 p,label, strong{
+    color: white;
+}
+.pad h5{
+    font-size: 17px;
+    color: #E69A77;
+}
+.pad span{
+    color: #878488;
+}
+.s{
+    margin-left: 12px;
+}
+
+.pad{
+    padding: 45px;
+}
+.pad1{
+    padding: 25px;
+}
+.imag{
+    height: 50%;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    border: 5px solid white;
+}
+.certificado{
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% auto;
+    border: 5px solid white;
+}
+
+
+
+h4{
+    width: 98.5%;
+    border-bottom: 4px solid #DEDAD5;
+    color: #2D3039;
+}
+
+.ref div{
+    width: 40.5%;
+    border-bottom: 4px solid #DEDAD5;
+    margin: 5px;
+}

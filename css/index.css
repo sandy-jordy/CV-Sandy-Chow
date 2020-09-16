@@ -1,16 +1,15 @@
 *{
     margin: 0;
     padding: 0;
+    
 }
-
-body {
-    overflow-x: hidden;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+body{
+    font-family: sans-serif;
+    font-weight: 540;
 }
 .u1{
 width: 100%;
 
-background-color: #E49855;
 }
 
 .u1 label{
@@ -21,6 +20,10 @@ background-color: #E49855;
 }
 .u1 p,label, strong{
     color: white;
+}
+.pad h4{
+    font-weight: 550;
+    color: #0C3866;
 }
 .pad h5{
     font-size: 17px;
@@ -57,8 +60,6 @@ background-color: #E49855;
     border: 5px solid white;
 }
 
-
-
 h4{
     width: 98.5%;
     border-bottom: 4px solid #DEDAD5;
@@ -69,4 +70,21 @@ h4{
     width: 40.5%;
     border-bottom: 4px solid #DEDAD5;
     margin: 5px;
+}
+
+.banner {
+    background-color: #0c0e27;
+    background-color: #0c3866;
+    color: white;
+}
+.banner-effect {
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
 }
